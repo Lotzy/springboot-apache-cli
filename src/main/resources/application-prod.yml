@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-apache-cli
+
+name: Lotzy_prod
